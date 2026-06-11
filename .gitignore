@@ -1,0 +1,22 @@
+# 编译生成的文件
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# 日志文件
+*.log
+
+# VS Code 配置文件（个人设置不想共享时）
+.vscode/
+
+# CMake 构建目录
+build/
+
+# 临时文件
+*.swp
+*.tmp
+*.bak
